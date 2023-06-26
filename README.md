@@ -14,6 +14,6 @@ My name is Jack, and I'm a software developer. I am able to work fairly efficien
 
 ### Contacts
 
-Email: [jacdsmith2327@gmail.com](mailto:mail@andrey.es)
+Email: [jackdsmith2327@gmail.com](mailto:mail@andrey.es)
 
 GitHub: [My GitHub Discussion Page](https://github.com/Clonephaze/Clonephaze/discussions)
