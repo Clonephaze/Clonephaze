@@ -3,7 +3,7 @@
 My name is Jack, and I'm a software developer. I am able to work fairly efficiently with JavaScript, Python, HTML, and CSS. I am also working on learning C. I have a couple projects I've made here but hopefully there will many more to come. 
 
 
-#### You can leave me a message via [GitHub Discussion](https://github.com/Clonephaze/Clonephaze/discussions/categories/guestbook)
+#### You can leave me a message via [GitHub Discussion](https://github.com/Clonephaze/Clonephaze/discussions)
 
 
 ### Projects
@@ -16,4 +16,4 @@ My name is Jack, and I'm a software developer. I am able to work fairly efficien
 
 Email: [jacdsmith2327@gmail.com](mailto:mail@andrey.es)
 
-GitHub: [My GitHub Discussion Page](https://github.com/Clonephaze/Clonephaze/discussions/categories/guestbook)
+GitHub: [My GitHub Discussion Page](https://github.com/Clonephaze/Clonephaze/discussions)
