@@ -1,4 +1,4 @@
-## Hey there 👋, thanks for chekcing out my page!
+## Hey there 👋, thanks for checking out my page!
 
 My name is Jack, and I'm a software developer. I am able to work fairly efficiently with JavaScript, Python, HTML, and CSS. I am also working on learning C. I have a couple projects I've made here but hopefully there will many more to come. 
 
