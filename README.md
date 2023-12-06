@@ -1,12 +1,14 @@
 ## Hey there 👋, thanks for checking out my page!
 
-My name is Jack, and I'm a software developer. I am able to work fairly efficiently with JavaScript, Python, HTML, and CSS. I am also working on learning C. I have a couple projects I've made here but hopefully there will many more to come. 
+My name is Jack, and I'm a software developer. I am able to work with JavaScript, Python, HTML, and CSS. I am also working on learning C. Thanks for checking out my page!
 
 
 #### You can leave me a message via [GitHub Discussion](https://github.com/Clonephaze/Clonephaze/discussions)
 
 
 ### Projects
+
+[🖥 Dangerous to go Alone Wiki!](https://github.com/Clonephaze/DtgA) A wiki designed soley by me for the mod "Dangerous to go Alone" for breath of the wild!
 
 [🤖 Clone's test bot](https://github.com/Clonephaze/Clones-Test-Bot) My own Discord bot, always being updated and improved. Mostly a project for me to practice my JavaScript, Python, and batch skills.
 
