@@ -3,7 +3,7 @@
 True to my name, I like being a jack-of-all-trades and as such I like to dable and really get to understand a lot of different fields. I am a full-time librarian, a freelance front-end focused web developer, and a hobbyist 3d modeler.
 
 
-#### You can leave me a message via [GitHub Discussion](https://github.com/Clonephaze/Clonephaze/discussions)
+#### You can leave me a message via my bussiness email at jack@clonecore.net or on my [GitHub Discussion](https://github.com/Clonephaze/Clonephaze/discussions) page.
 
 
 ### Web Projects
