@@ -22,6 +22,6 @@ True to my name, I like being a jack-of-all-trades and as such I like to dable a
 
 ### Contacts
 
-Email: [jackdsmith2327@gmail.com](mailto:mail@andrey.es)
+Email: [Jack](mailto:jack@clonecore.net)
 
 GitHub: [My GitHub Discussion Page](https://github.com/Clonephaze/Clonephaze/discussions)
