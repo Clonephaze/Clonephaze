@@ -1,6 +1,6 @@
 ## Hey there 👋, thanks for checking out my page!
 
-True to my name, I like being a jack-of-all-trades and as such I like to dable and really get to understand a lot of different fields. I am a web developer mostly for fun though I've made a few projects now that I'm proud of and are actively in use. I can work in jQuery and vanilla JavaScript, HTML and Css, Python, and batch scripting. 
+True to my name, I like being a jack-of-all-trades and as such I like to dable and really get to understand a lot of different fields. I am a full-time librarian, a freelance front-end focused web developer, and a hobbyist 3d modeler.
 
 
 #### You can leave me a message via [GitHub Discussion](https://github.com/Clonephaze/Clonephaze/discussions)
