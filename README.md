@@ -1,9 +1,5 @@
 ## Hey there 👋 thanks for checking out my page!
-
-I'm a part-time librarian and a freelance developer with a love for creating that spans beyond any one medium. I code full stack projects, build Blender tools, and dabble in everything from 3D and pixel art to video and sound editing.  
-If it's creative or technical, I like figuring out how it works.
-
-You can reach me at **[jack@clonecore.net](mailto:jack@clonecore.net)** or leave a message on my [GitHub Discussions](https://github.com/Clonephaze/Clonephaze/discussions) page.
+Check out my website for everything I've done and who I am: https://www.clonecore.net/
 
 ---
 
