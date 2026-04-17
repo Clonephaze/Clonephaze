@@ -4,7 +4,7 @@ Check out my website for everything I've done and who I am: https://www.clonecor
 ---
 
 ### Web Projects
-[**Bookshelf**](bookshelf-clonecore.vercel.app)  
+[**Bookshelf**](https://bookshelf-clonecore.vercel.app)  
 Full-stack, Production ready, full Auth setup, book tracking app! Track your books, see your statistics, and optionally share with friends! Uses **_three_** API layers and a custom built normilaztion script to clean the messy data into a single data layer for every book. 
 
 [**Dangerous to Go Alone Wiki!**](https://github.com/Clonephaze/DtgA)  
