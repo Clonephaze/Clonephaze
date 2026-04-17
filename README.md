@@ -3,6 +3,18 @@ Check out my website for everything I've done and who I am: https://www.clonecor
 
 ---
 
+### Web Projects
+[**Bookshelf**](bookshelf-clonecore.vercel.app)
+Full-stack, Production ready, full Auth setup, book tracking app! Track your books, see your statistics, and optionally share with friends! Uses **_three_** API layers and a custom built normilaztion script to clean the messy data into a single data layer for every book. 
+
+[**Dangerous to Go Alone Wiki!**](https://github.com/Clonephaze/DtgA)  
+A site I designed and built for the *Dangerous to Go Alone* mod for *Breath of the Wild.*
+
+[**Rock Paper Scissors Lizard Spock**](https://clonephaze.github.io/RockPaperScissors/)  
+A fun web-based game inspired by *The Big Bang Theory.*
+
+---
+
 ### Blender Add-ons
 
 [**3D Printed NFC Generator**](https://extensions.blender.org/add-ons/nfc-card-keychain-generator/versions/)  
@@ -13,16 +25,6 @@ Check out my website for everything I've done and who I am: https://www.clonecor
 
 [**Blender 3MF Import/Export Format**](https://github.com/Clonephaze/Blender3mfFormat---4.2-compatible)  
 **Updated and Maintained:** An add-on for Blender 4.2+ that enables importing and exporting 3MF files. I updated this add-on from Ghostkeeper's work in 2025 after nearly two years without updates, and it now works seamlessly with modern Blender versions.
-
----
-
-### Web Projects
-
-[**Dangerous to Go Alone Wiki!**](https://github.com/Clonephaze/DtgA)  
-A site I designed and built for the *Dangerous to Go Alone* mod for *Breath of the Wild.*
-
-[**Rock Paper Scissors Lizard Spock**](https://clonephaze.github.io/RockPaperScissors/)  
-A fun web-based game inspired by *The Big Bang Theory.*
 
 ---
 
