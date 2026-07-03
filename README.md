@@ -1,6 +1,7 @@
 ## Hey there 👋 thanks for checking out my page!
 Check out my website for everything I've done and who I am: https://www.clonecore.net/
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Clonephaze&hide_border=true&hide_title=true&size=compact&hide=hours%2Cweek%2Ctrend%2Cstreak%2Cissues%2Cactive_day%2Cavg&order=stars%2Cprs%2Cgrade%2Ccontributions%2Crepos%2Cfollowers%2Ccommits)
 ---
 
 ### Web Projects
